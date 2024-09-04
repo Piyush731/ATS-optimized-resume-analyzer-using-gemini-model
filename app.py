@@ -129,7 +129,7 @@ avs.add_vertical_space(3)
 
 
 
-# Layout setup with Streamlit columns  contact
+# contact us column build by me personally uses smtp to send email 
 col1, col2 = st.columns([2, 3])  # Adjust column widths as needed
 
 with col1:
@@ -154,7 +154,7 @@ with col1:
                 body = f"From: {contact_email}\n\nMessage:\n{message}"
                 msg.attach(MIMEText(body, 'plain'))
 
-                # Connect to SMTP server and send email
+                # Connect to SMTP server and send email  using gmail
                 with smtplib.SMTP('smtp.gmail.com', 587) as server:  # Use your SMTP server details
                     server.starttls()  # Secure the connection
                     server.login(EMAIL_ADDRESS, EMAIL_PASSWORD)
