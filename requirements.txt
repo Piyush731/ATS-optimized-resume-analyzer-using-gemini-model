@@ -1,0 +1,7 @@
+#libraries to be installed
+streamlit
+streamlit_extras
+google-generativeai
+python-dotenv
+pyPDF2
+pillow
