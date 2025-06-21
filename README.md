@@ -16,7 +16,7 @@ Create a customized, job-specific profile summary to enhance your resume’s app
 Receive targeted recommendations to improve your skillset and align your resume with current industry demands.
 
 🖥️ Demo
-🔗 Live App: Click here to try CareerCraft
+🔗 Live App: [Click here to try CareerCraft](https://ats-optimized-resume-analyzer-using-gemini-model-n8trixwjhi4eb.streamlit.app/)
 
 📂 Input Instructions
 This app requires two inputs:
@@ -40,21 +40,20 @@ Personalized Career Tips
 ⚙️ Deployment Guide
 🔗 Dependencies
 Install all required packages with:
-
-bash
-Copy
-Edit
 pip install -r requirements.txt
 🔐 Environment Variables
 Create a .env file in the project root with:
 
-dotenv
-Copy
-Edit
+dotenv Sample
 EMAIL_ADDRESS=your-email@example.com
 EMAIL_PASSWORD=your-email-password
 GOOGLE_API_KEY=your-google-api-key
 These are used to send feedback/results and access Google Gemini API securely.
+
+🖥️ Screenshots
+![Careercrafthome](https://github.com/user-attachments/assets/7a4c32f9-a007-4aa1-99bc-0b0eb56fdf90)
+![jd](https://github.com/user-attachments/assets/881b244d-88c1-4195-ad97-eba675c2fa9e)
+
 
 ▶️ Run Locally
 bash
@@ -78,5 +77,3 @@ If you have any questions, feedback, or need help using the application:
 Piyush Kashyap
 📧 piyushkashyap3247@gmail.com
 🔗 LinkedIn
-
-![alt text](architceture.png)  
