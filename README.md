@@ -72,6 +72,7 @@ Create a .env file in the project root with:
 ## 📬 Contact
 If you have any questions, feedback, or need help using the application:
 
-Piyush Kashyap
-📧 piyushkashyap3247@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/piyush-kashyap731/)
+**Piyush Kashyap**
+- 📧 piyushkashyap3247@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/piyush-kashyap731/)
+- 🔗 [GitHub](https://github.com/Piyush731)
